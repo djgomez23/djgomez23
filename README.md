@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, my name is Damita Gomez!
 
 <!--
 **djgomez23/djgomez23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am currently working on a prediction algorithm (stay tuned!)
+- I am currently learning object detection with deep learning.
+- Here is the link to my old GitHub that I was sadly locked out of: [Old GitHub](https://github.com/damitagomez23)
