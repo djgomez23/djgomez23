@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Current Work
 - I am currently working on a prediction algorithm (stay tuned!)
 - I am currently learning object detection with deep learning.
 - Here is the link to my old GitHub that I was sadly locked out of: [Old GitHub](https://github.com/damitagomez23)
+
+### Web Apps
+- [UW Pokemon Club Website (team project)](https://info340d-au18.github.io/project-stluongxd/)
+
+### Shiny Apps
+- [Compare Universities By Data (team project)](https://mwood22.shinyapps.io/Info_201_Final_Project/)
+
+### Figma Prototypes
+- [Pet Shelter Database Site Wireframe](https://www.figma.com/design/aTNGrGTmICDoINUa2wPAnt/DSCI551_project?node-id=0-1&m=dev&t=YYfHA6HX7Hyq6gfF-1)
+- [Alzheimer's Data Dashboard Wireframe (team project)](https://www.figma.com/design/1huRjVme25b0bNmvRLi05D/DSCI554-VizRDWireframe?node-id=0-1&m=dev&t=wCS5GQa4ddWFuw3C-1)
