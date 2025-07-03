@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - Here is the link to my old GitHub that I was sadly locked out of: [Old GitHub](https://github.com/damitagomez23)
 
 ### Web Apps
+- [Global Food Security Report](https://djgomez23.github.io/food-security-nb/)
 - [UW Pokemon Club Website (team project)](https://info340d-au18.github.io/project-stluongxd/)
 - [Alzheimer's Data Dashboard (team project)](https://dsci-554.github.io/project-vizrd/)
 
