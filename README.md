@@ -22,11 +22,15 @@ Here are some ideas to get you started:
 
 ### Web Apps
 - [Global Food Security Report](https://djgomez23.github.io/food-security-nb/)
+  - GitHub Pages, Jupyter Notebooks (Python), Shiny App (R)
 - [UW Pokemon Club Website (team project)](https://info340d-au18.github.io/project-stluongxd/)
+  - GitHub Pages, React.js, Firebase
 - [Alzheimer's Data Dashboard (team project)](https://dsci-554.github.io/project-vizrd/)
+  - Vue.js and Python
 
 ### Observable
 - [Music Trends Notebook](https://observablehq.com/@damitagomez/music-trends)
+  - D3
 
 ### Shiny Apps
 - [Compare Universities By Data (team project)](https://mwood22.shinyapps.io/Info_201_Final_Project/)
