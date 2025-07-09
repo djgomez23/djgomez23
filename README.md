@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - Here is the link to my old GitHub that I was sadly locked out of: [Old GitHub](https://github.com/damitagomez23)
 
 ### ML Work
-- [Repository for League of Legends Match Prediction Recreation](https://github.com/scotty-hoag/csci-567)
+- [Repository for League of Legends Match Prediction Recreation (team project)](https://github.com/scotty-hoag/csci-567)
 
 ### Web Apps
 - [Global Food Security Report](https://djgomez23.github.io/food-security-nb/)
